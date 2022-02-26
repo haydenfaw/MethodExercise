@@ -1,0 +1,16 @@
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.exe
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.deps.json
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.runtimeconfig.json
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.runtimeconfig.dev.json
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.dll
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\bin\Debug\net5.0\MethodExercise_v2.pdb
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.csproj.AssemblyReference.cache
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.AssemblyInfoInputs.cache
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.AssemblyInfo.cs
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.dll
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\refint\MethodExercise_v2.dll
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.pdb
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\MethodExercise_v2.genruntimeconfig.cache
+C:\Users\Hayden\repos\MethodExercise_v2\MethodExercise_v2\obj\Debug\net5.0\ref\MethodExercise_v2.dll
